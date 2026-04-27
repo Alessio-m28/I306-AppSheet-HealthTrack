@@ -16,7 +16,7 @@ Pour le client.
 ### Inclus
 -Permet de voir le temps qu'on a passé pour faire le sport.
 -Permet de voir l'hydratation de la personne.
--
+-Permet de voir les entrée de l'application.
 
 ### Exclus
 -Pas de compétition.
