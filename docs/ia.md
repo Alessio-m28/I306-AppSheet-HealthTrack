@@ -1,13 +1,16 @@
 # Utilisation de l'IA
 
 ## Outils utilisés
-- Chatgpt
+- ChatGPT
 
 ## Ce que vous avez demandé
--Expliquer le user story pour mieux comprendre
+- Expliquer les user stories pour mieux les comprendre.
+- Corriger la documentation.
 
 ## Ce que vous avez compris
--De mieux comprendre le user story
+- Une meilleure compréhension des user stories.
+- Comment rendre la documentation plus claire et plus propre.
 
 ## Ce que vous avez modifié
--le user story
+- Les user stories.
+- La documentation.

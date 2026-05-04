@@ -1,13 +1,13 @@
 ## Format
 
 ### Décision
-Finir au moins 1 user story
+- Finir au moins une user story.
 
 ### Pourquoi
-pour avancer dans le projet
+- Pour avancer dans le projet.
 
 ### Alternatives envisagées
-aucune
+- Aucune.
 
 ### Conséquences
-on en a fini 2
+- Le projet progresse.

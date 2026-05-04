@@ -1,2 +1,13 @@
 # Formules AppSheet
-On a aucunes formules
+
+## Consigne
+Documentez uniquement les formules IMPORTANTES.
+
+## Formule
+- Nom :
+- Où :
+- Formule :
+- Explication AVEC VOS MOTS :
+
+## Règle
+Vous devez comprendre chaque formule utilisée.
