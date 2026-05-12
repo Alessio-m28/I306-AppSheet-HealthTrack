@@ -30,8 +30,8 @@ Permet de d'amélioré les prochain sprint et de voir l'évolution du projet.
 - Fonctionnalités réalisées : User story - Objectif séances sport
 - Fonctionnalités réalisées : User story - Objectif sommeil moyen
 - Fonctionnalités réalisées : User story - Objectif hydratation
+- Fonctionnalités réalisées : User story - Total séances semaine
 
-- Fonctionnalités manquantes : User story - Total séances semaine
 - Fonctionnalités manquantes : User story - demande des nouveaux fonctionnalité ou de design au client
 - Fonctionnalités manquantes : User story entrée santé
 - Fonctionnalités manquantes : User story date de santé
