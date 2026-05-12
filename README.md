@@ -7,8 +7,8 @@ README.md
 - Sprint : 2
 
 ## Membres
-- Product Owner : Eros 
-- Scrum Master : Eros, Steevy
+- Product Owner : Eros, Steevy
+- Scrum Master : Eros
 - Developers : Nicolas, Alessio
 
 ## Liens
